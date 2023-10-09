@@ -1,0 +1,16 @@
+Hướng dẫn API
+
+Link api
+https://api.ini.vn/swagger/index.html
+
+Bạn dung tài khoản
+User: demo@ini.vn
+Pass: demo@ini.vn
+
+
+Chọn api lấy QUỸ/ TÀI KHOẢN
+https://api.ini.vn/api/AaccountsFuns
+
+Key : ApiToken
+Value: NjdjMDBlMjQtODI1Yi00ZTE5LWJmNWMtZGFiODdlZDc4YmRj.M2YwOGZkZDEtZjkwNS00MDc4LTgzMjItZGNiM2NiMWUyYmZj.M2YwOGZkZDEtZjkwNS00MDc4LTgzMjItZGNiM2NiMWUyYmZj.WHXDom4gVGjhuqNv.NjA.8pNYbcbli9eeI3TIVVFmw00bf8Zq-bvZRCIPye_xHAE
+Add to : Hearder
